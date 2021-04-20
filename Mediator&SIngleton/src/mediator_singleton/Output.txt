@@ -1,0 +1,60 @@
+Console Output:
+
+user#1 has joined the ChatRoom.
+user#2 has joined the ChatRoom.
+user#3 has joined the ChatRoom.
+user#4 has joined the ChatRoom.
+user#5 has joined the ChatRoom.
+
+user#1 sent: addBot
+user#2 received: addBot from [user#1].
+user#3 received: addBot from [user#1].
+user#4 received: addBot from [user#1].
+user#5 received: addBot from [user#1].
+chatBot has joined the ChatRoom.
+
+user#1 sent: cat 
+user#2 received: cat  from [user#1].
+user#3 received: cat  from [user#1].
+user#4 received: cat  from [user#1].
+user#5 received: cat  from [user#1].
+
+---->[user#1] has been removed from the ChatRoom for violating a rule.<----
+
+
+user#2 sent: category
+user#3 received: category from [user#2].
+user#4 received: category from [user#2].
+user#5 received: category from [user#2].
+
+user#2 sent: concat
+user#3 received: concat from [user#2].
+user#4 received: concat from [user#2].
+user#5 received: concat from [user#2].
+
+user#2 sent:  cat
+user#3 received:  cat from [user#2].
+user#4 received:  cat from [user#2].
+user#5 received:  cat from [user#2].
+
+---->[user#2] has been removed from the ChatRoom for violating a rule.<----
+
+
+user#3 sent: addBot
+user#4 received: addBot from [user#3].
+user#5 received: addBot from [user#3].
+
+user#3 sent: ?cat
+user#4 received: ?cat from [user#3].
+user#5 received: ?cat from [user#3].
+
+---->[user#3] has been removed from the ChatRoom for violating a rule.<----
+
+
+user#4 sent: cat
+user#5 received: cat from [user#4].
+
+---->[user#4] has been removed from the ChatRoom for violating a rule.<----
+
+
+user#5 sent: Hello?
